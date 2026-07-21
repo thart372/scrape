@@ -58,3 +58,4 @@ Notes and usage details for scrape.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
