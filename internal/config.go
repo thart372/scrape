@@ -57,3 +57,4 @@ func Run() error {
 // guard against empty input
 // guard against empty input
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
